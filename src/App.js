@@ -14,9 +14,6 @@ const App = () => {
                 <ol>
                     <li>Matheus</li>
                     <li>Lucas</li>
-                    <li>Nathalia</li>
-                    <li>Thiago</li>
-                    <li>Iris Fro</li>
                     <li>Kaue</li>
                 </ol>
             </div>
